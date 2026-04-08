@@ -1,5 +1,5 @@
 # 💫 About Me:
-TI’m currently working on data analytics projects and building practical skills using real-world datasets. I’m interested in collaborating on data analytics projects and beginner-friendly open-source contributions. At the same time, I’m looking to deepen my understanding of machine learning concepts and how analytics can be applied in real-world scenarios. Currently, I’m learning Python, SQL, Excel, and Power BI to strengthen my foundation in data analytics. Feel free to ask me about data analytics basics, productivity, or getting started in tech. Fun fact — I’m also a dancer
+I’m currently working on data analytics projects and building practical skills using real-world datasets. I’m interested in collaborating on data analytics projects and beginner-friendly open-source contributions. At the same time, I’m looking to deepen my understanding of machine learning concepts and how analytics can be applied in real-world scenarios. Currently, I’m learning Python, SQL, Excel, and Power BI to strengthen my foundation in data analytics. Feel free to ask me about data analytics basics, productivity, or getting started in tech. Fun fact — I’m also a dancer
 
 
 ## 🌐 Socials:
